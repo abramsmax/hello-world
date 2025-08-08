@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-"Life is to short for long-term grudges" - Elon Musk
+"Life is too short for long-term grudges" - Elon Musk
